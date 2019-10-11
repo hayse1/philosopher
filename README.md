@@ -3,7 +3,7 @@ A data processing toolkit for shotgun proteomics.
 
 ![Golang](https://img.shields.io/badge/Go-1.12.5-blue.svg)
 
-## Features
+### Features
 Philosopher provides easy access to third-party tools and custom algorithms allowing users to develop proteomics analysis, from Peptide Spectrum Matching to annotated protein reports. Philosopher is also tuned for Open Search analysis, providing a modified version of the prophets for peptide validation and protein inference. To this date, Philosopher is the only proteomics toolkit that allows you to process and analyze close and open search results.
 
 - Mass spec data file conversion with msconvert.
@@ -41,26 +41,26 @@ Philosopher provides easy access to third-party tools and custom algorithms allo
 - Mass spec identification file conversion with idconvert.
 
 
-## How to Download
+### How to Download
 Download the latest version [here](https://github.com/Nesvilab/philosopher/releases/tag/v1.5.1)
 
-## Documentation
+### Documentation
 For documentation on Philosopher itself, see Philosopher Documentation [Wiki page](https://github.com/Nesvilab/philosopher/wiki).
 
 
-## Questions, requests and bug reports
+### Questions, requests and bug reports
 If you have any questions, remarks, requests or if you found a bug, please use the [Issue tracker](https://github.com/Nesvilab/philosopher/issues).
 
 
-## How to cite
+### How to cite
 Still in progress!
 
 
-## License
+### License
 Since Philosopher is not officially released, the binaries provided here have no license. Once released, the software will be licensed under the GPL 3 license.
 
 
-## About the developers
+### About the developers
 [Felipe da Veiga leprevost](http://www.leprevost.com.br)
 
 Alexey Nesvizhskii's [nesvilab](http://www.nesvilab.org/)
